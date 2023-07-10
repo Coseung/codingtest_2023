@@ -1,0 +1,10 @@
+print("첫번째 정수를 입력해주세요 :", end='')
+a = input()
+print("두번째 정수를 입력해주세요 :", end='')
+b = input()
+print(a, b)
+print(b, a)
+
+print("한번에 문자를 2번 입력받습니다. :", end ='')
+c, d =input(plit()
+print(c, d)

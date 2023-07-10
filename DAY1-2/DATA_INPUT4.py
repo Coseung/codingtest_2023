@@ -1,0 +1,5 @@
+date = input('문자를 입력해주세요, 닷으로 구분: ').split('.')
+print('-'.join(date))
+date.reverse()
+print(':'.join(date))
+print(date[0], date[1])
