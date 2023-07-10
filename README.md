@@ -5,4 +5,7 @@
 파이썬 환경설정(완료)
 
 ## 실행 및 GIT허브 연동(완료)
-[소스코드: HELLOWORLD.py 실행완료]()
+[소스코드: HELLOWORLD.py 실행완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY1-2/HELLOWORLD.py)
+
+## 기본 출력 실습
+[소스코드: HELLOWORLD_EX1.py 실행완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY1-2/HELLOWORLD_EX1.py)
