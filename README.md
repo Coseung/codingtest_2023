@@ -9,3 +9,6 @@
 
 ## 기본 출력 실습
 [소스코드: HELLOWORLD_EX1.py 실행완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY1-2/HELLOWORLD_EX1.py)
+
+## 실습 
+[소스코드: DATA_TYPE_EX6.PY 실행완료]()
