@@ -5,12 +5,10 @@ count = 0
 
 for i in range(n):
     lst += [int(input(f"동전 {n}개를 순서대로 입력하시오 :"))]
-
+lst.sort(reverse =True)
 
 print(lst)    
-    
-    
-lst.sort(reverse =True)
+
 for i in lst:
     if k >=i :
         count += k//i
