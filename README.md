@@ -18,3 +18,4 @@
 
 ## 실습 
 [소스 코드 : CURRENCY_EX2.PY 도전 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY3/CURRENCY_EX2.py)
+[소스 코드 : DECRYPTION_EX3.PY 실행 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY4/DECRYPTION.py)
