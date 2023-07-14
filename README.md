@@ -19,8 +19,14 @@
 [소스 코드 : DATA_TYPE_EX9.PY 실행 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY1-2/DATA_TYPE_EX9.py)
 
 [소스 코드 : DATA_TYPE_EX11.PY 실행 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY1-2/FUNCTION_EX11.py)
-/[소스 코드 : CURRENCY.PY 실행 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY3/CURRENCY.py)
+
+[소스 코드 : CURRENCY.PY 실행 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY3/CURRENCY.py)
 
 ## 실습 
 [소스 코드 : CURRENCY_EX2.PY 도전 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY3/CURRENCY_EX2.py)
-/[소스 코드 : DECRYPTION_EX3.PY 실행 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY4/DECRYPTION.py)
+
+[소스 코드 : DECRYPTION_EX3.PY 실행 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY4/DECRYPTION.py)
+
+[소스 코드 : EXAM_01.PY 문제풀이 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY1-2/EXAM_01.py)
+
+[소스 코드 : EXAM_02.PY 문제푼이 완료](https://github.com/dreamdp01/PYTHON/blob/master/DAY1-2/EXAM_02.py)
